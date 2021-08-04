@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tute 2</string>
+    <string name="it_value" />
+    <string name="but_cels">Celsius</string>
+    <string name="but_fan">feranhite</string>
+    <string name="butt">click here</string>
+    <string name="et_view">temperatuer</string>
+    <string name="button">calcuate</string>
+
+</resources>
